@@ -3,6 +3,7 @@
 ## Project Overview 🗒️
 This project investigates the impact of parental involvement on student success, specifically examining how parental support and education influence students' academic performance. The analysis focuses on three main hypotheses regarding the relationships between parental support, education, and student success metrics, including success rates and GPA. 
 The project encompasses the full data analysis process, including data gathering, cleaning, exploratory data analysis, KPIs, A/B testing, and visualization.
+https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data
 
 ## Organization and Project Management 👀
 This project was managed following a structured approach to ensure timely completion and adherence to project requirements. 
